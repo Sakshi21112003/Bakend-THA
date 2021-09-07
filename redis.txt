@@ -1,0 +1,59 @@
+====>>> REDIS 
+
+app-get redis instal in linux
+ 
+local host, port> key-value -> string
+ 
+store json 
+ it always store string 
+ it store data in key value payer
+  
+
+
+{key:"10"}---storing number
+{key:"{a: '10'}"}-----storing object
+{key:"[1,2,3]"}----storing array
+
+
+SET key value-----store it
+GET key   ---------display it
+it store value in string every task perform in string
+DEl key --- delete the key
+EXISTS key----to find wheather key exists or not
+KEYS *------it show no. of keys that are stored
+FLUSHALL---delete all
+clear----to clear screen
+ttl key --- time of kry
+expire key time-----it will expired that key at that time
+setex key value----expire within seting
+
+array
+lpush 0 th index push---lpush array value
+rpush last index push
+lpop 0th index delete
+rpop last index delete
+
+lRANGE key 0 -1----display
+sadd ---element cant repeat
+smembers---display
+
+objects
+key 
+HSET 
+HGET key key---display value
+HGETALL key---display all
+HDEL key
+HEXISTS key
+
+
+pub (publish) sub (subscribe)
+ subscribe channel [channel....]
+psubscribe
+unsubscribe
+
+
+
+
+
+
+
