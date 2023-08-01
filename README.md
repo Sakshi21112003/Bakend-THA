@@ -6,11 +6,18 @@
 
 - Landing page:
 
-    <img src="public/Images/demo1.png" width="650" height="auto">
+    
+
+![Screenshot 2023-08-01 at 17-52-41 nikhilsourav_JustTalk Realtime chat app using nodejs and socket io](https://github.com/Sakshi21112003/Chat-App/assets/86145621/c0074555-10ff-4380-b933-30a28009fadb)
+
 
 - Chat room:
 
-    <img src="public/Images/demo2.png" width="650" height="auto">
+
+
+  
+   
+
 
 ## About this app:
 
